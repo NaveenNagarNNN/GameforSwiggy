@@ -30,26 +30,19 @@ NOTE: actions are not stackable i.e. if Q is played by player 1 then player two 
 
 ## How to run the program.
 
-Simply clone this repository on your local system and execute the Main class' main method --> (Main.main()) and give input 
+Simply clone this repository on your local system and execute and give input 
 on how many players you want the game to play for minimum = 2
 and maximum = 4.
 
-Runs on any kind of Environment which supports Java 1.8 or above.
-
 Thank you!
-## Screenshots
 
-![Screenshot1](screenshots/screenshot1.png)
-
-
-![Screenshot2](screenshots/screenshot2.png)
 ## Author
 
-- [Mrityunjay Sarkar](https://github.com/MrityuNJ45)
+- [Naveen Nagar](https://github.com/NaveenNagarNNN)
 
 
 
 ## Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/mrityunjay-sarkar45/)
-- Email : mrityunjaysorcar@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/naveen-nagar-995177a6/)
+- Email : naveeennagarnnn0517@gmail.com
